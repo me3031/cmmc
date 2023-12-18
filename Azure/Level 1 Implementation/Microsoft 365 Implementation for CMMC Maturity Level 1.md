@@ -1,0 +1,5 @@
+This section will provide the organization with guidance to configure the products and services acquired with their M365 E3 licensing to satisfy the technical requirements of CMMC Maturity Level 1. However, the organization will still be responsible for developing procedures to carry out the actionable tasks found within the requirements. 
+
+The CMMC Maturity Level 1 certification is comprised of 17 security controls of the CMMC framework. Each control contains a control statement or the control language. This statement describes what the control is intended to accomplish (sometimes referred to as the “outcome” of the control). To achieve the outcome described by the control language, each control contains a series of determination statements which are individual tasks that must be satisfied for a control to be considered implemented. 
+
+Implementing CMMC Maturity Level 1 with M365 E3 licensing will also place organizations in a better position to graduate their CMMC maturity level if necessary. The products and services found in the M365 E3 license serve as the foundations for the licensing required to meet the more advanced level(s) of the standard.
